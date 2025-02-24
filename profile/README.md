@@ -1,1 +1,1 @@
-![Lortechsolutions](assets/banner.png)
+![Lortechsolutions](../assets/banner.png)
